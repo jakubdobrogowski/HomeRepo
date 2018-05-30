@@ -1,3 +1,5 @@
+package pl.home.javastartHome.other;
+
 import java.math.BigDecimal;
 
 public class BoardGame {
